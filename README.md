@@ -86,14 +86,14 @@ The models were evaluated based on the following metrics:
 
 The Random Forest Classifier performed the best with an accuracy of 75% and,  an F1 score of 65% after Model Tuning and adding hyperparameters.
 
-##For a More detailed explanation Watch the video
+## Demo Video
 
 
 https://github.com/Ayushjhax/dataMining/assets/116433617/763b1f3f-3981-487e-8aa7-bc7ca4be909c
 
 ## Authors
-Ayush Kumar Jha and Himanshu Rawat
-GitHub: @Ayushjhax and @himanshu-rawat77
+- Ayush Kumar Jha and Himanshu Rawat
+- GitHub: @Ayushjhax and @himanshu-rawat77
 
 ## Feedback
 
