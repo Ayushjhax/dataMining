@@ -2,7 +2,7 @@
 
 ## Project Overview
 
-This project aims to develop a machine learning model to predict the likelihood of diabetes in patients based on various medical parameters. The dataset used for this project is the Pima Indians Diabetes Database, which contains several features such as glucose level, blood pressure, insulin level, and BMI.
+This project aims to develop a machine-learning model to predict the likelihood of diabetes in patients based on various medical parameters. The dataset used for this project is the Pima Indians Diabetes Database, which contains several features such as glucose level, blood pressure, insulin level, and BMI.
 
 ## Table of Contents
 
@@ -24,7 +24,7 @@ Feature Set Exploration :
 
 - Pregnancies
 - Glucose
-- BloodPressure
+- blood pressure
 - SkinThickness
 - Insulin
 - BMI
@@ -84,8 +84,17 @@ The models were evaluated based on the following metrics:
 
 ## Results
 
-The Random Forest Classifier performed the best with an accuracy of 75%,  F1 score of 65%. Detailed evaluation results and visualizations are provided in the Google Colab Notebook.
-The Naive Predictor performed the best with an accuracy of 34%, F1 score of 40%.
+The Random Forest Classifier performed the best with an accuracy of 75% and,  an F1 score of 65% after Model Tuning and adding hyperparameters.
+
+##For a More detailed explanation Watch the video
 
 
-# Thank You For Checking 
+https://github.com/Ayushjhax/dataMining/assets/116433617/763b1f3f-3981-487e-8aa7-bc7ca4be909c
+
+##Authors
+Ayush Kumar Jha and Himanshu Rawat
+GitHub: @Ayushjhax and @himanshu-rawat77
+
+##Feedback
+
+If you have any questions, feedback, or issues, please don't hesitate to reach out to [Ayush Kumar Jha](https://www.linkedin.com/in/ayushjhax/)  or [Himanshu Rawat](https://www.linkedin.com/in/himanshu-rawat-1011sh/) or Email us at ayushkmrjha@yahoo.com or himanshu.rawat7789@gmail.com.
