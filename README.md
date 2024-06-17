@@ -91,10 +91,10 @@ The Random Forest Classifier performed the best with an accuracy of 75% and,  an
 
 https://github.com/Ayushjhax/dataMining/assets/116433617/763b1f3f-3981-487e-8aa7-bc7ca4be909c
 
-##Authors
+## Authors
 Ayush Kumar Jha and Himanshu Rawat
 GitHub: @Ayushjhax and @himanshu-rawat77
 
-##Feedback
+## Feedback
 
 If you have any questions, feedback, or issues, please don't hesitate to reach out to [Ayush Kumar Jha](https://www.linkedin.com/in/ayushjhax/)  or [Himanshu Rawat](https://www.linkedin.com/in/himanshu-rawat-1011sh/) or Email us at ayushkmrjha@yahoo.com or himanshu.rawat7789@gmail.com.
